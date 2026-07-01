@@ -1,0 +1,8 @@
+selenium
+requests
+html5lib
+pandas
+yfinance
+gspread
+oauth2client
+pyTelegramBotAPI
